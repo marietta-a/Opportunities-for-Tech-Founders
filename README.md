@@ -26,7 +26,7 @@ Opportunities offering non-dilutive funding, prize money, and significant media 
 |------|----------------------|----------------------|-------------------|
 | [Cartier Women's Initiative](https://www.cartierwomensinitiative.com/) | Up to $100k in grant funding | Annual (Applications typically open in May) | Women-led, impact-driven businesses |
 | [The Hult Prize](https://www.hultprize.org/) | $1M in seed capital | Annual (Campus programs run year-round) | University students creating social impact |
-| [TechCrunch Disrupt Startup Battlefield](https://techcrunch.com/events/tc-disrupt-2024/startup-battlefield/) | $100k equity-free prize | Annual (Held at TC Disrupt) | Early-stage, un-launched tech startups |
+<!-- | [TechCrunch Disrupt Startup Battlefield](https://techcrunch.com/events/tc-disrupt-2024/startup-battlefield/) | $100k equity-free prize | Annual (Held at TC Disrupt) | Early-stage, un-launched tech startups | -->
 | [Stripe Atlas Grants](https://stripe.com/atlas) | Grants & Stripe credits | Varies by program | Typically for underrepresented founders |
 | [MIT $100K Entrepreneurship Competition](https://www.mit100k.org/) | Up to $100k in non-dilutive funding | Annual (Runs through the academic year) | At least one MIT student on the team |
 
@@ -41,16 +41,6 @@ Focused programs for startups in specific verticals like Climate Tech, BioTech, 
 | [FinTech Innovation Lab](https://www.fintechinnovationlab.com/) | FinTech, InsurTech | Mentorship with top financial institutions | New York / London |
 | [Alchemist Accelerator](https://www.alchemistaccelerator.com/) | Enterprise, B2B SaaS | Small investment, deep enterprise network | San Francisco / Remote |
 
-## 🌍 Diversity & Inclusion Focused Programs
-
-Accelerators and funds dedicated to supporting underrepresented founders.
-
-| Name | Focus | Key Offering | Location |
-|------|-------|--------------|----------|
-| [Backstage Capital](https://backstagecapital.com/) | Underrepresented founders (Women, PoC, LGBTQ+) | Investment for equity | Remote / US |
-| [DivInc](https://www.divinc.org/) | Ethnically diverse & women founders | Seed funding, mentorship, network | Austin, TX |
-| [Black Ambition Prize](https://www.blackambitionprize.com/) | Black and Latinx founders | Up to $1M in prize money | US-based |
-| [Visible Hands](https://www.visiblehands.vc/) | Underrepresented talent | Pre-seed investment and company-building | Remote-first |
 
 ## 🏢 Corporate & University-Affiliated Programs
 
@@ -58,7 +48,7 @@ Programs backed by major corporations or leading universities, often providing u
 
 | Name | Affiliation | Key Offering | Location |
 |------|-------------|--------------|----------|
-| [Google for Startups Accelerator](https://startup.google.com/accelerators/) | Google | Equity-free support, Google mentorship | Global (various programs) |
+| [Google for Startups](https://cloud.google.com/startup/) | Google | Equity-free support, Google Cloud credits, mentorship, technical training | Global (various programs) |
 | [Microsoft for Startups](https://startups.microsoft.com/) | Microsoft | Azure credits, technical support, co-selling | Global |
 | [Stanford StartX](https://startx.com/) | Stanford University | Mentorship, resources (non-profit, no equity) | Palo Alto / Remote |
 | [Harvard Innovation Labs (i-lab)](https://i-lab.harvard.edu/) | Harvard University | Mentorship, workspace, resources | Cambridge, MA |
