@@ -26,7 +26,6 @@ Opportunities offering non-dilutive funding, prize money, and significant media 
 |------|----------------------|----------------------|-------------------|
 | [Cartier Women's Initiative](https://www.cartierwomensinitiative.com/) | Up to $100k in grant funding | Annual (Applications typically open in May) | Women-led, impact-driven businesses |
 | [The Hult Prize](https://www.hultprize.org/) | $1M in seed capital | Annual (Campus programs run year-round) | University students creating social impact |
-<!-- | [TechCrunch Disrupt Startup Battlefield](https://techcrunch.com/events/tc-disrupt-2024/startup-battlefield/) | $100k equity-free prize | Annual (Held at TC Disrupt) | Early-stage, un-launched tech startups | -->
 | [Stripe Atlas Grants](https://stripe.com/atlas) | Grants & Stripe credits | Varies by program | Typically for underrepresented founders |
 | [MIT $100K Entrepreneurship Competition](https://www.mit100k.org/) | Up to $100k in non-dilutive funding | Annual (Runs through the academic year) | At least one MIT student on the team |
 
